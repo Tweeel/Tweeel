@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Houssem Eddine</h1>
 <h3 align="center">A passionate android developer from Algeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tweeel" alt="tweeel" /></a> </p>
-
 - 🌱 I’m currently learning **Android Development**
 
 - 👯 I’m looking to collaborate on **with other developers**
