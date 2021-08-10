@@ -14,6 +14,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/nolan/64/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />
+<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png" />
 <img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/dusk/64/000000/android.png" />
 <br />
 <br />
