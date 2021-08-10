@@ -1,16 +1,24 @@
-### Hi there 👋 It's me Houssem
+Hi there, I'm Houssem 👋
+Website Twitter Follow
 
-<!--
-**Tweeel/Tweeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a  coputer science student, and Developer!!
+🌱 I’m currently learning android development 📱
+👯 I’m looking to collaborate with other developers
+⚡ Fun fact: I love to photography , mountain biking and gaming 
+Connect with me:
+  instagram-> https://www.instagram.com/houssem.38/
+  LinkedIn-> https://www.linkedin.com/in/baba-bendermel-houssem-eddine/
+  Facebook -> https://www.facebook.com/housseme.bababendermel
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools:
+ java 
+ xml 
+ android development
+ html
+ css
+ js
+ frontend-development
+
+⚡ Recent GitHub Activity
+⚡ GitHub Stats
