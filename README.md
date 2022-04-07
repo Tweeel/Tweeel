@@ -2,13 +2,13 @@
 <h3 align="center">A passionate android developer from Algeria</h3>
 
 <div align="center">
-- 🌱 I’m currently learning **Android Development**
+🌱 I’m currently learning **Android Development**
 
-- 👯 I’m looking to collaborate on **with other developers**
+👯 I’m looking to collaborate on **with other developers**
 
-- 📫 How to reach me **houssembababendermel@gmail.com**
+📫 How to reach me **houssembababendermel@gmail.com**
 
-- ⚡ Fun fact **I love to photography , mountain biking and gaming**
+⚡ Fun fact **I love to photography , mountain biking and gaming**
 </div>
 
 <h3 align="center">Connect with me:</h3>
