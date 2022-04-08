@@ -3,8 +3,11 @@
 
 <div align="center">
 🌱 I’m currently learning **Android Development**
+
 👯 I’m looking to collaborate on **with other developers**
+
 📫 How to reach me **houssembababendermel@gmail.com**
+
 ⚡ Fun fact **I love to photography , mountain biking and gaming**
 </div>
 
