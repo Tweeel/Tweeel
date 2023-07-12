@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **houssembababendermel@gmail.com**
 
-- ⚡ Fun fact **I love to photography , mountain biking and gaming**
+- ⚡ Fun fact **I love photography, mountain biking,  and gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
